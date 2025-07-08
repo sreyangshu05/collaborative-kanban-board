@@ -295,10 +295,6 @@ socket.on('taskUpdated', (updatedTask) => {
 - **Activity Logging**: All actions are tracked and broadcast
 - **User Feedback**: Visual indicators for ongoing actions
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙋‍♂️ Contributing
 
 We welcome contributions! Here's how you can help:
