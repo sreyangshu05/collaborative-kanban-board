@@ -116,8 +116,8 @@ npm run client  # Frontend only (port 5173)
 4. Add environment variables in deployment platform
 
 ### Demo Links
-- **Live Demo**: [[Coming Soon]](https://collaborative-kanban-board.vercel.app/)
-- **Backend API**: [[Coming Soon]](https://collaborative-kanban-board.vercel.app/)
+- **Live Demo**: [[Link]](https://collaborative-kanban-board.vercel.app/)
+- **Backend API**: [[Link]](https://collaborative-kanban-board.vercel.app/)
 - **Demo Video**: [Coming Soon]
 
 ## ✨ Features
