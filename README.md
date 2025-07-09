@@ -12,6 +12,10 @@ This project is a **full-stack collaborative Kanban board** that enables teams t
 - **Comprehensive activity tracking** with detailed logs of all team actions
 - **Modern, responsive UI** built with React and TailwindCSS
 
+### Demo Video 
+
+- **Link**:  [[Link]](https://drive.google.com/file/d/1-otgXd6Mzv0BUrym1dQIAzuiOmMWux74/view?usp=drive_link))
+
 ### Real-World Use Cases
 
 - **Development Teams**: Track sprint tasks, bug fixes, and feature development
