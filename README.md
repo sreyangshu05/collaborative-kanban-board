@@ -14,7 +14,7 @@ This project is a **full-stack collaborative Kanban board** that enables teams t
 
 ### Demo Video 
 
-- **Link**:  [[Link]](https://drive.google.com/file/d/1-otgXd6Mzv0BUrym1dQIAzuiOmMWux74/view?usp=drive_link))
+- **Link**:  [[Link]](https://drive.google.com/file/d/1-otgXd6Mzv0BUrym1dQIAzuiOmMWux74/view?usp=drive_link)
 
 ### Real-World Use Cases
 
